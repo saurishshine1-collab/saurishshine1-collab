@@ -1,107 +1,157 @@
+# Saurish Shine
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saurish+Shine;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+Software+Developer;BCA+AI+Specialist;Building+Intelligent+Systems;Computer+Vision+%26+ML+Engineering;Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurish-shine-996533302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saurishshine1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/saurishshine1-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=2000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Python+%7C+Java+%7C+C+%7C+SQL;Django+%7C+Flutter+%7C+MediaPipe;YOLOv8+%7C+Cisco+Packet+Tracer" alt="Tech Stack Typing" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurishshine1-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurishshine1-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&border_radius=12&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurishshine1-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C5CFF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=E6EDF3&sideLabels=8A919E&dates=8A919E&border_radius=12" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saurishshine1-collab/saurishshine1-collab/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## ⚡ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,sql" alt="Languages" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=django,flutter,pytorch,tensorflow,opencv" alt="Frameworks" />
+
+### AI/ML & Computer Vision
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda" alt="AI Tools" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,figma" alt="Tools" />
+
+### Cloud & Databases
+<img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,redis" alt="Cloud & DB" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### VisionMate — Real-time Object Detection & Mobile Inference System
+**YOLOv8 • MediaPipe • Flutter • Django • Python**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=VisionMate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="VisionMate" />
+</div>
+
+**Key Features:**
+- 🎯 Real-time object detection with YOLOv8 (custom trained weights)
+- 🖐️ Hand gesture tracking via MediaPipe for touchless interaction
+- 🍎 Fruit ripeness classification (multi-class CNN classifier)
+- 📱 Cross-platform mobile app (Flutter) with offline inference
+- 🌐 Django REST API backend with WebSocket support for live feeds
+- ⚡ Optimized ONNX/TFLite models for edge deployment
+
+**Tech Highlights:** Model quantization (FP16/INT8), TensorRT acceleration, CI/CD pipeline with GitHub Actions, Docker containerization
+
+---
+
+### SmartIrrigate AI — Automated Irrigation Intelligence Platform
+**Django • OpenWeatherMap API • PostgreSQL • Celery • Redis**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=SmartIrrigate-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="SmartIrrigate AI" />
+</div>
+
+**Key Features:**
+- 🌤️ Real-time weather data integration (OpenWeatherMap One Call API 3.0)
+- 🌱 Soil-type aware irrigation scheduling (clay, loam, sandy, peat)
+- 📊 Predictive water usage analytics with ML-based forecasting
+- ⏰ Automated cron jobs via Celery Beat for precision timing
+- 📱 RESTful API with Django REST Framework + JWT authentication
+- 📈 Admin dashboard with Chart.js visualizations
+
+**Tech Highlights:** Async task processing (Celery + Redis), PostgreSQL with PostGIS for geospatial queries, Prometheus/Grafana monitoring, Kubernetes-ready deployment configs
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Area | Status |
+|------|--------|
+| 🧠 **LLM Fine-tuning & RAG Systems** | Actively Learning |
+| 👁️ **Computer Vision (YOLO, SAM, MediaPipe)** | Production Experience |
+| 🤖 **MLOps & Model Deployment (ONNX, TensorRT, Triton)** | Building Expertise |
+| ☁️ **Cloud-Native AI (AWS SageMaker, GCP Vertex AI)** | Exploring |
+| 💼 **Seeking Full-time AI/ML Engineering Roles** | **Open to Opportunities** |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurishshine1-collab&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=7C5CFF&point=FFFFFF&hide_border=true&area=true&area_color=161B22" alt="Activity Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4FF)](https://linkedin.com/in/saurish-shine)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=7C5CFF)](https://github.com/saurishshine1-collab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=00D4FF)](mailto:saurishshine1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=7C5CFF)](https://saurishshine.dev)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117&color=00D4FF)](https://x.com/saurishshine)
+
+</div>
+
+---
+
+## 💬 Fun Facts
 
 ```python
-class SaurishShine:
+class Saurish:
     def __init__(self):
-        self.role = "Student & Python Developer"
-        self.focus = ["Computer Vision", "AI/ML", "Backend Development"]
-        self.currently_learning = ["Deep Learning", "System Design", "Cloud Architecture"]
-        self.motto = "Code. Learn. Build. Repeat."
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL", "HTML/CSS"],
-            "frameworks": ["TensorFlow", "OpenCV", "Flask", "FastAPI"],
-            "tools": ["Git", "Docker", "Linux", "VS Code"],
-            "databases": ["MongoDB", "PostgreSQL", "SQLite"]
-        }
+        self.currently_building = ["VisionMate v2.0", "RAG-powered code assistant"]
+        self.learning = ["CUDA programming", "Distributed training", "Agentic workflows"]
+        self.fun_fact = "I optimize neural nets before my morning coffee ☕"
+        
+    def say_hi(self):
+        return "Thanks for visiting! Let's build something intelligent together 🚀"
 
-me = SaurishShine()
-print(f"🎯 Focus: {', '.join(me.focus)}")
-print(f"📚 Learning: {', '.join(me.currently_learning)}")
+me = Saurish()
+print(me.say_hi())
 ```
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurishshine1-collab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurishshine1-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurishshine1-collab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎯 **Object Detection System** | Real-time object detection using YOLO/OpenCV with custom model training pipeline | `Python` `OpenCV` `YOLO` `TensorFlow` | ⭐ Featured |
-| 🏫 **Student Management System** | Full-stack student management with CRUD operations, authentication & reporting | `Python` `Flask` `SQLite` `HTML/CSS` | 📦 Complete |
-| 🍎 **Pomegranate Core Scanner** | Computer vision scanner for pomegranate quality assessment using ML | `Python` `OpenCV` `scikit-learn` `NumPy` | 🔬 Research |
-| 🏨 **Hotel Management Network** | Network simulation for hotel management system with distributed architecture | `Python` `NetworkX` `SimPy` | 🌐 Network |
-
----
-
-### 🛠️ Technical Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,fastapi,mongodb,postgresql,sqlite,git,docker,linux,vscode,github&theme=dark&perline=7" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurishshine1-collab&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
----
-
-### 🎓 Currently Exploring
-
-- 🧠 **Deep Learning Architectures** - CNNs, Transformers, Attention Mechanisms
-- ☁️ **Cloud & DevOps** - Docker, CI/CD, AWS/GCP fundamentals
-- 🏗️ **System Design** - Scalability, Microservices, Database Sharding
-- 🤖 **MLOps** - Model deployment, monitoring, experiment tracking
-
----
-
-### 💬 Let's Connect
-
-<p align="center">
-  <strong>Open to internships, collaborations, and interesting projects!</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saurish-shine-996533302/">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurishshine1-collab&style=for-the-badge&color=00D9FF&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <sub>✨ Crafted with passion | Last updated: $(date +"%B %Y")</sub>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurishshine1-collab&color=00D4FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <sub>Built with ❤️ using GitHub Readme Generators • Last updated: 2025</sub>
+</div>
