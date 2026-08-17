@@ -56,11 +56,11 @@
 
 ## 🚀 Featured Projects
 
-### VisionMate — Real-time Object Detection & Mobile Inference System
+### Object Detection System — Real-time YOLOv8 Detection & Mobile Inference
 **YOLOv8 • MediaPipe • Flutter • Django • Python**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=VisionMate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="VisionMate" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=Object-Detection-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="Object Detection System" />
 </div>
 
 **Key Features:**
@@ -75,11 +75,11 @@
 
 ---
 
-### SmartIrrigate AI — Automated Irrigation Intelligence Platform
+### SmartIrrigate — Automated Irrigation Intelligence Platform
 **Django • OpenWeatherMap API • PostgreSQL • Celery • Redis**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=SmartIrrigate-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="SmartIrrigate AI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurishshine1-collab&repo=SmartIrrigate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3&icon_color=7C5CFF&border_radius=12" alt="SmartIrrigate" />
 </div>
 
 **Key Features:**
@@ -137,7 +137,7 @@
 ```python
 class Saurish:
     def __init__(self):
-        self.currently_building = ["VisionMate v2.0", "RAG-powered code assistant"]
+        self.currently_building = ["Object Detection System v2.0", "RAG-powered code assistant"]
         self.learning = ["CUDA programming", "Distributed training", "Agentic workflows"]
         self.fun_fact = "I optimize neural nets before my morning coffee ☕"
         
